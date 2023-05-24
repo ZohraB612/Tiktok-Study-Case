@@ -3,12 +3,12 @@
 This project focuses on analysing data from the popular social media platform TikTok to understand what drives engagement and popularity of content. Our analysis can help content creators and businesses understand which topics are more popular and how to better engage larger audiences.
 
 ## Table of Contents
-1. [Overview](#Overview)
-2. [Installation](#Installation)
-3. [Usage](#Usage)
-4. [Contribution](#Contribution)
-5. [Credits](#Credits)
-6. [License](#License)
+* [Overview](#Overview)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contribution](#Contribution)
+* [Credits](#Credits)
+* [License](#License)
 
 ## Overview
 This project was inspired by the rapid growth and global popularity of TikTok. We aim to provide insights into the content and user engagement on the platform, enabling content creators and businesses to better tailor their strategies for more effective engagement.
